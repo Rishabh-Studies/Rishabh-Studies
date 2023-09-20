@@ -56,12 +56,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Rishabh-Studies/Rishabh-Studies/output/snake.svg" alt="Snake animation" />
-
-###
